@@ -13,7 +13,7 @@
     "jasmine-ajax"
   ],
   "dependencies": {
-    "jasmine-ajax": "git://github.com/pivotal/jasmine-ajax#477f044b4afa9b77ca834275109cbe08b362f05e"
+    "jasmine-ajax": "^2.0.1"
   },
   "peerDependencies": {
     "karma": "~0.12.0"
