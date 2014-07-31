@@ -1,11 +1,11 @@
 {
-  "name": "karma-jasmine-ajax",
-  "version": "0.1.4",
+  "name": "karma-jasmine-ajax-eisoo",
+  "version": "0.1.0",
   "description": "Use Pivotal jasmine-ajax with Karma",
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IDCubed/karma-jasmine-ajax.git"
+    "url": "git://github.com/bornkiller/karma-jasmine-ajax-eisoo.git"
   },
   "keywords": [
     "karma-plugin",
@@ -13,14 +13,14 @@
     "jasmine-ajax"
   ],
   "dependencies": {
-    "jasmine-ajax": "git://github.com/pivotal/jasmine-ajax"
+    "jasmine-ajax": "2.0.1"
   },
   "peerDependencies": {
     "karma": "~0.12.0"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IDCubed/karma-jasmine-ajax/issues"
+    
   },
-  "homepage": "https://github.com/IDCubed/karma-jasmine-ajax"
+  "homepage": "https://github.com/bornkiller/karma-jasmine-ajax-eisoo"
 }
