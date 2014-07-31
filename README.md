@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```sh
-$ npm install karma-jasmine-ajax --save-dev
+$ npm install karma-jasmine-ajax-eisoos --save-dev
 ```
 
 Add `jasmine-ajax` to the `frameworks` key in your Karma configuration, before `jasmine`:
