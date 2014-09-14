@@ -11,7 +11,7 @@ Installation
 ------------
 
 ```sh
-$ npm install karma-jasmine-ajax-eisoos --save-dev
+$ npm install karma-jasmine-ajax-eisoo --save-dev
 ```
 
 Karma will autoload all the plugins start with `karma-`, so you just add `jasmine-ajax` to the `frameworks` key in your Karma configuration, especially before `jasmine`, or it will cause problem because of dependency.
