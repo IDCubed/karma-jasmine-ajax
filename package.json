@@ -1,6 +1,6 @@
 {
   "name": "karma-jasmine-ajax-eisoo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Use Pivotal jasmine-ajax with Karma",
   "main": "main.js",
   "repository": {
@@ -13,14 +13,12 @@
     "jasmine-ajax"
   ],
   "dependencies": {
-    "jasmine-ajax": "2.0.1"
+    "jasmine-ajax": "^2.0.1"
   },
   "peerDependencies": {
     "karma": "~0.12.0"
   },
   "license": "MIT",
-  "bugs": {
-    
-  },
+  "bugs": {},
   "homepage": "https://github.com/bornkiller/karma-jasmine-ajax-eisoo"
 }
