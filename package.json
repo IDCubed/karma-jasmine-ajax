@@ -13,7 +13,7 @@
     "jasmine-ajax"
   ],
   "dependencies": {
-    "jasmine-ajax": "^2.0.1"
+    "jasmine-ajax": "^2.0.2"
   },
   "peerDependencies": {
     "karma": "~0.12.0"
