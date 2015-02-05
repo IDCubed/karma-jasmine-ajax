@@ -1,6 +1,6 @@
 {
   "name": "karma-jasmine-ajax",
-  "version": "0.3.0",
+  "version": "0.1.7",
   "description": "Use Pivotal jasmine-ajax with Karma",
   "main": "main.js",
   "repository": {
