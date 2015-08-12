@@ -16,7 +16,7 @@
     "jasmine-ajax": "^3.0.0"
   },
   "peerDependencies": {
-    "karma": "~0.12.0"
+    "karma": "0.x"
   },
   "license": "MIT",
   "bugs": {
