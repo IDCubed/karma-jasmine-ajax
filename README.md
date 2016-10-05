@@ -15,8 +15,7 @@ Add `jasmine-ajax` to the `frameworks` key in your Karma configuration, before `
 ```js
 module.exports = function(config) {
   config.set({
-    frameworks: ['jasmine-ajax', 'jasmine'],
-    plugins: [karma-jasmine-ajax]
+    frameworks: ['jasmine-ajax', 'jasmine']
   });
 }
 ```
